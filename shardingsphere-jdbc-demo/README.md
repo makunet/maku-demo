@@ -2,8 +2,8 @@
 本案例，主要提供shardingsphere-jdbc的集成方案，实现读写分离，分库分表功能的DEMO。
 
 ## 准备工作
-1. 创建数据库fast_demo_write，用于写数据
-2. 创建数据库fast_demo_read，用于读数据
+1. 创建数据库maku_demo_write，用于写数据
+2. 创建数据库maku_demo_read，用于读数据
 3. 在这2个数据库里面，分别执行下面的MySQL语句，用于测试读写分离
 ```sql
 CREATE TABLE tb_user
@@ -22,7 +22,7 @@ CREATE TABLE tb_user
 
 
 ## 测试分库分表
-1. 在fast_demo_write数据库里，执行如下MySQL语句，用于测试分表（分库原理也是一样的）
+1. 在maku_demo_write数据库里，执行如下MySQL语句，用于测试分表（分库原理也是一样的）
 ```sql
 CREATE TABLE tb_user_log_0
 (

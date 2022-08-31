@@ -1,5 +1,5 @@
 ## 项目说明
-- fast-demo是一个SpringBoot生态的开源组件Demo库，集成各种开源组件的使用，让项目能快速集成进去，节省使用开源组件的学习成本。
+- maku-demo是一个SpringBoot生态的开源组件Demo库，集成各种开源组件的使用，让项目能快速集成进去，节省使用开源组件的学习成本。
 
 
 ## 交流和反馈
@@ -13,4 +13,4 @@
 ![](https://maku.net/app/img/qrcode.jpg)
 
 ## 支持
-如果觉得框架还不错，或者已经在使用了，希望你可以去 [Github](https://github.com/makunet/fast-demo) 或 [Gitee](https://gitee.com/makunet/fast-demo) 帮作者点个 ⭐ Star，这将是对作者极大的鼓励与支持。
+如果觉得框架还不错，或者已经在使用了，希望你可以去 [Github](https://github.com/makunet/maku-demo) 或 [Gitee](https://gitee.com/makunet/maku-demo) 帮作者点个 ⭐ Star，这将是对作者极大的鼓励与支持。

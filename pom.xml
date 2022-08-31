@@ -2,12 +2,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.maku</groupId>
-    <artifactId>fast-demo</artifactId>
+    <artifactId>maku-demo</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
-    <name>fast-demo</name>
-    <description>FastDemo</description>
+    <name>maku-demo</name>
+    <description>maku-demo</description>
     <url>https://maku.net</url>
 
     <parent>
